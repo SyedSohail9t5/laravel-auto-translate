@@ -17,11 +17,11 @@
     ],
     "require": {
         "php": "*",
-        "google/cloud": "^0.105.0",
+        "google/cloud": "*",
         "illuminate/support": "*",
-        "scn/deepl-api-connector": "^1.3",
-        "stichoza/google-translate-php": "^4.0",
-        "themsaid/laravel-langman": "^1.3"
+        "scn/deepl-api-connector": "*",
+        "stichoza/google-translate-php": "*",
+        "themsaid/laravel-langman": "*"
     },
     "require-dev": {
         "orchestra/testbench": "3.6.* || 3.7.* || 3.8.*",
