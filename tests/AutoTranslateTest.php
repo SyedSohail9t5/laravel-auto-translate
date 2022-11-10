@@ -1,11 +1,11 @@
 <?php
 
-namespace Ben182\AutoTranslate\Tests;
+namespace Sohail9t5\AutoTranslate\Tests;
 
 use Mockery;
 use Illuminate\Support\Arr;
-use Ben182\AutoTranslate\AutoTranslateFacade;
-use Ben182\AutoTranslate\Translators\TranslatorInterface;
+use Sohail9t5\AutoTranslate\AutoTranslateFacade;
+use Sohail9t5\AutoTranslate\Translators\TranslatorInterface;
 
 class AutoTranslateTest extends TestCase
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Ben182\AutoTranslate;
+namespace Sohail9t5\AutoTranslate;
 
 use Illuminate\Support\Arr;
 use Themsaid\Langman\Manager as Langman;
-use Ben182\AutoTranslate\Translators\TranslatorInterface;
+use Sohail9t5\AutoTranslate\Translators\TranslatorInterface;
 
 class AutoTranslate
 {

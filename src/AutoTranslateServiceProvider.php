@@ -1,12 +1,12 @@
 <?php
 
-namespace Ben182\AutoTranslate;
+namespace Sohail9t5\AutoTranslate;
 
 use Themsaid\Langman\Manager;
 use Illuminate\Support\ServiceProvider;
-use Ben182\AutoTranslate\Commands\AllCommand;
-use Ben182\AutoTranslate\Commands\MissingCommand;
-use Ben182\AutoTranslate\Translators\TranslatorInterface;
+use Sohail9t5\AutoTranslate\Commands\AllCommand;
+use Sohail9t5\AutoTranslate\Commands\MissingCommand;
+use Sohail9t5\AutoTranslate\Translators\TranslatorInterface;
 
 class AutoTranslateServiceProvider extends ServiceProvider
 {

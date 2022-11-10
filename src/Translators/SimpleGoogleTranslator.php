@@ -1,9 +1,9 @@
 <?php
 
-namespace Ben182\AutoTranslate\Translators;
+namespace Sohail9t5\AutoTranslate\Translators;
 
 use Stichoza\GoogleTranslate\GoogleTranslate;
-use Ben182\AutoTranslate\Exceptions\LanguageCodeNotExist;
+use Sohail9t5\AutoTranslate\Exceptions\LanguageCodeNotExist;
 
 class SimpleGoogleTranslator implements TranslatorInterface
 {

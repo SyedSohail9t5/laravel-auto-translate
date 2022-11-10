@@ -1,11 +1,11 @@
 <?php
 
-namespace Ben182\AutoTranslate\Commands;
+namespace Sohail9t5\AutoTranslate\Commands;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
 use Illuminate\Console\Command;
-use Ben182\AutoTranslate\AutoTranslate;
+use Sohail9t5\AutoTranslate\AutoTranslate;
 
 class AllCommand extends Command
 {

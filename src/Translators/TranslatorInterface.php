@@ -1,6 +1,6 @@
 <?php
 
-namespace Ben182\AutoTranslate\Translators;
+namespace Sohail9t5\AutoTranslate\Translators;
 
 interface TranslatorInterface
 {
