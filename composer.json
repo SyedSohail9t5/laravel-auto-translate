@@ -24,9 +24,9 @@
         "themsaid/laravel-langman": "*"
     },
     "require-dev": {
-        "orchestra/testbench": "3.6.* || 3.7.* || 3.8.*",
+        "orchestra/testbench": "*",
         "phpunit/phpunit": "*",
-        "mockery/mockery": "^1.2"
+        "mockery/mockery": "*"
     },
     "autoload": {
         "psr-4": {
