@@ -21,7 +21,7 @@
         "illuminate/support": "*",
         "scn/deepl-api-connector": "*",
         "stichoza/google-translate-php": "*",
-        "themsaid/laravel-langman": "*"
+        "themsaid/laravel-langman": "^2.0.1"
     },
     "require-dev": {
         "orchestra/testbench": "*",
